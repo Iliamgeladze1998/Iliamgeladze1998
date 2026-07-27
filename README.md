@@ -81,13 +81,31 @@ Scraper → Excel → Data Merger → Google Sheets → Telegram Alerts
 - Google Sheets API integration with cosmetic formatting (filters, dropdowns, conditional formatting)
 - Headless browser automation with Playwright & Camoufox
 
+#### [review-redirect](https://github.com/Iliamgeladze1998/review-redirect) — QR Review System
+
+> QR code redirect system for acoustic.ge Google Maps reviews. Flask backend with analytics dashboard, tracking user feedback and redirecting to review page.
+
+- QR code generation and redirect logic
+- Analytics dashboard with visitor tracking
+- Positive/negative feedback routing
+- Deployed on Netlify
+
+#### [browser-agent](https://github.com/Iliamgeladze1998/browser-agent) — AI Browser Automation
+
+> Ready-to-use AI browser agent combining browser-use + Google Gemini + headless Chrome via CDP. Give natural language tasks, the agent executes them.
+
+- Natural language task execution
+- Headless Chrome via CDP for server environments
+- Google Gemini 2.0 Flash as LLM
+- Single-file plug-and-play script
+
 #### [acoustic-invoice-generator](https://github.com/Iliamgeladze1998/acoustic-invoice-generator) — Invoice Automation
 
-> Automated invoice generation system for acoustic.ge online store.
+> Telegram bot for automated invoice generation for acoustic.ge online store.
 
 #### [8-ball-pool-helper](https://github.com/Iliamgeladze1998/8-ball-pool-helper) — Game Assistant
 
-> JavaScript-based game assistant tool with shot prediction and aim helpers.
+> Chrome extension that draws a transparent practice overlay for 8-ball pool — sketch aim guide lines and visualize cushion-reflection angles.
 
 ---
 
@@ -106,6 +124,10 @@ Scraper → Excel → Data Merger → Google Sheets → Telegram Alerts
 <img src="https://github-readme-stats.vercel.app/api?username=Iliamgeladze1998&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iliamgeladze1998&layout=compact&theme=dark&hide_border=true" height="165" />
 
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Iliamgeladze1998&theme=dark&hide_border=true" height="165" />
 </div>
 
 ---
