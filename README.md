@@ -114,6 +114,9 @@ Scraper → Excel → Data Merger → Google Sheets → Telegram Alerts
 | Project | PR | Description | Status |
 |---------|-----|-------------|--------|
 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | [#5310](https://github.com/browser-use/browser-use/pull/5310) | Fix: preserve empty accessibility names with explicit `None` check in `views.py` | Open |
+| [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | [#6685](https://github.com/crewAIInc/crewAI/pull/6685) | Fix: workspace package count and Python version discrepancy in CONTRIBUTING.md | Open |
+| [SylphAI-Inc/AdalFlow](https://github.com/SylphAI-Inc/AdalFlow) | [#499](https://github.com/SylphAI-Inc/AdalFlow/pull/499) | Fix: strip unsupported params for reasoning models + fix UnboundLocalError in `_get_default_mapping` | Open |
+| [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) | [#13688](https://github.com/Significant-Gravitas/AutoGPT/pull/13688) | Fix: UnicodeEncodeError with emoji surrogate pairs in ExecuteCodeBlock | Open |
 
 ---
 
