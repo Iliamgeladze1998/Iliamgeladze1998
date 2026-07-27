@@ -1,38 +1,127 @@
-## Hi there 👋
+<div align="center">
 
-I'm **Ilia** — a Python developer from **Tbilisi, Georgia** 🇬🇪
+# Ilia Mgeladze
 
-### What I do
+**Python Developer · Web Scraping & Data ETL · Automation Engineer**
 
-- 🕷️ **Web Scraping & Data ETL** — Building production scrapers for e-commerce price monitoring
-- 🤖 **Workflow Automation** — Autonomous pipelines with Telegram alerts, Google Sheets integration, and scheduled scraping
-- 🌐 **Browser Automation** — AI-driven browser agents using Playwright & browser-use
-- 🎸 **Music Tech** — Building tools for [acoustic.ge](https://acoustic.ge), Georgia's largest music instrument retailer
+Tbilisi, Georgia 🇬🇪
 
-### Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Google Sheets API](https://img.shields.io/badge/Google%20Sheets%20API-34A853?style=flat-square&logo=google-sheets&logoColor=white)
-![Telegram Bot API](https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-### Projects
-
-- 🔧 [**acoustic-server**](https://github.com/Iliamgeladze1998/acoustic-server) — Multi-store price comparison system: 6 scrapers, Google Sheets sync, Telegram price-change alerts
-- 📄 [**acoustic-invoice-generator**](https://github.com/Iliamgeladze1998/acoustic-invoice-generator) — Automated invoice generation for acoustic.ge
-- 🎱 [**8-ball-pool-helper**](https://github.com/Iliamgeladze1998/8-ball-pool-helper) — JavaScript game assistant tool
-- 🌐 [**browser-use fork**](https://github.com/Iliamgeladze1998/browser-use) — Contributing to AI browser automation (open PR [#5310](https://github.com/browser-use/browser-use/pull/5310))
-
-### Open Source
-
-- 🟢 Active PR on [browser-use/browser-use](https://github.com/browser-use/browser-use) — fix for accessibility name handling ([#5310](https://github.com/browser-use/browser-use/pull/5310))
-
-### Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilia%20Mgeladze-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilia-mgeladze-4b6b582a7/)
+</div>
 
 ---
 
-⭐ From [Iliamgeladze1998](https://github.com/Iliamgeladze1998)
+### About Me
+
+I build production-grade data pipelines and automation systems for e-commerce. My work focuses on:
+
+- **Web Scraping at Scale** — Multi-store price monitoring with Playwright, Camoufox, and custom scrapers
+- **Data ETL Pipelines** — Scraping → Merging → Google Sheets sync → Real-time Telegram alerts
+- **AI Browser Agents** — Automating browser interactions using browser-use, Gemini, and LLM-driven agents
+- **Workflow Automation** — Scheduled scraping, price change detection, and automated reporting
+
+---
+
+### Tech Stack
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+</td>
+<td align="center" width="25%">
+
+**Scraping & Browser**
+
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Camoufox](https://img.shields.io/badge/Camoufox-FF6B35?style=flat-square)
+![browser-use](https://img.shields.io/badge/browser--use-0066CC?style=flat-square)
+
+</td>
+<td align="center" width="25%">
+
+**Data & APIs**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white)
+![gspread](https://img.shields.io/badge/gspread-4A90D9?style=flat-square)
+
+</td>
+<td align="center" width="25%">
+
+**Web & Automation**
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+---
+
+### Projects
+
+#### [acoustic-server](https://github.com/Iliamgeladze1998/acoustic-server) — Price Comparison Platform
+
+> Production system monitoring **7 music instrument stores** in Georgia. 6 independent scrapers run in parallel `screen` sessions, scraping every 8 hours, merging data, syncing to Google Sheets, and sending real-time Telegram alerts for price changes.
+
+```
+Scraper → Excel → Data Merger → Google Sheets → Telegram Alerts
+```
+
+- 6 competitor stores tracked (Largo, JinoMusic, Musikis-Saxli, Musicroom, Geovoice, Mireli)
+- Automated price change detection with formatted Telegram alerts
+- Google Sheets API integration with cosmetic formatting (filters, dropdowns, conditional formatting)
+- Headless browser automation with Playwright & Camoufox
+
+#### [acoustic-invoice-generator](https://github.com/Iliamgeladze1998/acoustic-invoice-generator) — Invoice Automation
+
+> Automated invoice generation system for acoustic.ge online store.
+
+#### [8-ball-pool-helper](https://github.com/Iliamgeladze1998/8-ball-pool-helper) — Game Assistant
+
+> JavaScript-based game assistant tool with shot prediction and aim helpers.
+
+---
+
+### Open Source Contributions
+
+| Project | PR | Description | Status |
+|---------|-----|-------------|--------|
+| [browser-use/browser-use](https://github.com/browser-use/browser-use) | [#5310](https://github.com/browser-use/browser-use/pull/5310) | Fix: preserve empty accessibility names with explicit `None` check in `views.py` | Open |
+
+---
+
+### GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Iliamgeladze1998&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iliamgeladze1998&layout=compact&theme=dark&hide_border=true" height="165" />
+
+</div>
+
+---
+
+### Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ilia%20Mgeladze-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilia-mgeladze-4b6b582a7/)
+[![Gmail](https://img.shields.io/badge/Email-mgeladzeilia39@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mgeladzeilia39@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Iliamgeladze1998-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Iliamgeladze1998)
+
+</div>
+
+---
+
+<div align="center">
+<i>⭐ Star my repos if you find them useful!</i>
+</div>
