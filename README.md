@@ -50,7 +50,7 @@
 <!-- Animated typing header -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0D5C5C&center=true&vCenter=true&random=false&width=600&lines=Senior+Backend+Engineer;Production+Data+Pipeline+Architect;Distributed+Web+Scraping+at+Scale;AI+Browser+Automation+Engineer;Cloud-Native+Systems+Builder;E-commerce+Platform+Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=800&color=0D5C5C&center=true&vCenter=true&random=false&width=700&lines=Senior%2B+Backend+%26+Systems+Architect;World-Class+Python+Engineer;Distributed+Systems+%7C+ETL+at+Scale;AI+Automation+%7C+Gemini+%26+OpenAI;Cloud-Native+%7C+GCP+%26+AWS;Building+production+infrastructure" alt="Typing SVG" />
 
 </div>
 
@@ -567,13 +567,29 @@ Backend development, GCP-integrated services, automation, client solutions
 
 <div align="center">
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Iliamgeladze1998&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Iliamgeladze1998&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=10" height="170" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Iliamgeladze1998&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true&title_color=0d5c5c&icon_color=0d5c5c" height="170" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Iliamgeladze1998&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=10&title_color=0d5c5c" height="170" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Iliamgeladze1998&theme=chartreuse-dark&hide_border=true" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Iliamgeladze1998&theme=chartreuse-dark&hide_border=true&ring=0d5c5c&fire=0d5c5c&currStreakNum=0d5c5c" height="170" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iliamgeladze1998&theme=chartreuse-dark&hide_border=true" width="90%"/>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Iliamgeladze1998&theme=chartreuse-dark&hide_border=true" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Iliamgeladze1998&theme=chartreuse-dark&hide_border=true" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Iliamgeladze1998&theme=chartreuse-dark&hide_border=true" height="170" />
+
+<br>
+
+<!-- Animated snake contribution graph -->
+<img src="https://raw.githubusercontent.com/Iliamgeladze1998/Iliamgeladze1998/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
+
+<br>
+
+<!-- Trophy badges -->
+<img src="https://github-profile-trophy.vercel.app/?username=Iliamgeladze1998&theme=chartreuse-dark&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%"/>
 
 </div>
 
