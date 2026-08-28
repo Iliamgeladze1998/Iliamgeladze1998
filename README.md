@@ -244,7 +244,7 @@ Distributed price intelligence platform, ETL pipelines, AI automation, CS-Cart a
 <td align="left"><b>Python Developer</b></td>
 <td align="left">
 
-Olmait — Google Cloud Partner
+[Olmait](https://olmait.com/) — Google Cloud Partner
 
 </td>
 <td align="left">
