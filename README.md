@@ -583,13 +583,19 @@ Backend development, GCP-integrated services, automation, client solutions
 
 <br>
 
+<!-- Animated contribution grid snake -->
+<img src="https://raw.githubusercontent.com/Iliamgeladze1998/Iliamgeladze1998/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
+
+<br>
+
 <!-- Trophy badges -->
 <img src="https://github-profile-trophy.vercel.app/?username=Iliamgeladze1998&theme=chartreuse-dark&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" width="100%"/>
 
 <br>
 
-<!-- Productive time chart -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Iliamgeladze1998&theme=chartreuse-dark&hide_border=true" width="90%" />
+<!-- GitHub metrics -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Iliamgeladze1998&theme=chartreuse-dark&hide_border=true" height="170" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Iliamgeladze1998&theme=chartreuse-dark&hide_border=true" height="170" />
 
 </div>
 
