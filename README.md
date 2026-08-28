@@ -241,7 +241,7 @@ Distributed price intelligence platform, ETL pipelines, AI automation, CS-Cart a
 </td>
 </tr>
 <tr>
-<td align="left"><b>Cloud Engineer</b></td>
+<td align="left"><b>Python Developer</b></td>
 <td align="left">
 
 Olmait — Google Cloud Partner
@@ -249,7 +249,7 @@ Olmait — Google Cloud Partner
 </td>
 <td align="left">
 
-Cloud infrastructure, GCP deployments, backend services, client solutions
+Backend development, GCP-integrated services, automation, client solutions
 
 </td>
 </tr>
