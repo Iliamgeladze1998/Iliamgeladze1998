@@ -584,7 +584,7 @@ Backend development, GCP-integrated services, automation, client solutions
 <br>
 
 <!-- Animated contribution grid snake -->
-<img src="https://raw.githubusercontent.com/Iliamgeladze1998/Iliamgeladze1998/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
+<img src="https://raw.githubusercontent.com/Iliamgeladze1998/Iliamgeladze1998/main/assets/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%"/>
 
 <br>
 
