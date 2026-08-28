@@ -588,9 +588,6 @@ Backend development, GCP-integrated services, automation, client solutions
 
 <br>
 
-<!-- Productive time chart -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Iliamgeladze1998&theme=chartreuse-dark&hide_border=true" width="90%" />
-
 </div>
 
 ---
