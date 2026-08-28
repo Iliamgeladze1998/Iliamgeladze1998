@@ -351,13 +351,13 @@ Backend development, GCP-integrated services, automation, client solutions
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Iliamgeladze1998&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iliamgeladze1998&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=10" height="170" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Iliamgeladze1998&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true" height="170" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Iliamgeladze1998&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=10" height="170" />
 
 <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Iliamgeladze1998&theme=chartreuse-dark&hide_border=true" height="170" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Iliamgeladze1998&theme=chartreuse-dark&hide_border=true&area=true" width="90%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Iliamgeladze1998&theme=chartreuse-dark&hide_border=true" width="90%"/>
 
 </div>
 
