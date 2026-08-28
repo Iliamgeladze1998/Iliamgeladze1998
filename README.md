@@ -50,7 +50,7 @@
 <!-- Animated typing header -->
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=800&color=0D5C5C&center=true&vCenter=true&random=false&width=700&lines=Senior%2B+Backend+%26+Systems+Architect;World-Class+Python+Engineer;Distributed+Systems+%7C+ETL+at+Scale;AI+Automation+%7C+Gemini+%26+OpenAI;Cloud-Native+%7C+GCP+%26+AWS;Building+production+infrastructure" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=800&color=0D5C5C&center=true&vCenter=true&random=false&width=700&lines=Senior%2B+Backend+%26+Systems+Architect;Distributed+Systems+%7C+ETL+at+Scale;AI+Automation+%7C+Gemini+%26+OpenAI;Cloud-Native+%7C+GCP+%26+AWS;Building+production+infrastructure" alt="Typing SVG" />
 
 </div>
 
