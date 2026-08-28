@@ -56,7 +56,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Animated%20Emojis/Objects/Hammer%20and%20Wrench.png" width="28" height="28" /> Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -219,7 +219,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Animated%20Emojis/Objects/Briefcase.png" width="28" height="28" /> Experience
+### 💼 Experience
 
 <table>
 <tr>
@@ -257,7 +257,7 @@ Backend development, GCP-integrated services, automation, client solutions
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Animated%20Emojis/Objects/Rocket.png" width="28" height="28" /> Production Systems
+### 🚀 Production Systems
 
 <details open>
 <summary><b>acoustic-server</b> — Distributed Price Intelligence Platform</summary>
@@ -347,7 +347,7 @@ Backend development, GCP-integrated services, automation, client solutions
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Animated%20Emojis/Objects/Chart%20Increasing.png" width="28" height="28" /> GitHub Stats
+### 📈 GitHub Stats
 
 <div align="center">
 
@@ -363,7 +363,7 @@ Backend development, GCP-integrated services, automation, client solutions
 
 ---
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Animated%20Emojis/People/Man%20Technologist.png" width="28" height="28" /> Connect
+### 👨‍💻 Connect
 
 <div align="center">
 
