@@ -75,6 +75,8 @@
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=flat-square)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 
 </td>
 </tr>
@@ -88,6 +90,21 @@
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-499F6A?style=flat-square)
 ![Gunicorn](https://img.shields.io/badge/Gunicorn-499F6A?style=flat-square)
 ![aiohttp](https://img.shields.io/badge/aiohttp-2C4D7A?style=flat-square)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td align="left"><b>Async & Concurrency</b></td>
+<td>
+
+![asyncio](https://img.shields.io/badge/asyncio-3776AB?style=flat-square)
+![multiprocessing](https://img.shields.io/badge/multiprocessing-3776AB?style=flat-square)
+![threading](https://img.shields.io/badge/threading-3776AB?style=flat-square)
+![concurrent.futures](https://img.shields.io/badge/concurrent.futures-3776AB?style=flat-square)
+![aiohttp](https://img.shields.io/badge/aiohttp-2C4D7A?style=flat-square)
+![httpx](https://img.shields.io/badge/httpx-2962FF?style=flat-square)
 
 </td>
 </tr>
@@ -101,6 +118,10 @@
 ![browser-use](https://img.shields.io/badge/browser--use-0066CC?style=flat-square)
 ![CDP](https://img.shields.io/badge/Chrome%20DevTools%20Protocol-4285F4?style=flat-square)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square)
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=flat-square&logo=scrapy&logoColor=white)
+![lxml](https://img.shields.io/badge/lxml-2C3E50?style=flat-square)
+![requests](https://img.shields.io/badge/requests-3776AB?style=flat-square)
+![undetected--chromedriver](https://img.shields.io/badge/undetected--chromedriver-1A1A2E?style=flat-square)
 
 </td>
 </tr>
@@ -114,7 +135,11 @@
 ![gspread](https://img.shields.io/badge/gspread-4A90D9?style=flat-square)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat-square)
+![Alembic](https://img.shields.io/badge/Alembic-3776AB?style=flat-square)
+![openpyxl](https://img.shields.io/badge/openpyxl-1C3C3C?style=flat-square)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square)
 ![CSV](https://img.shields.io/badge/CSV-237346?style=flat-square)
 
@@ -125,6 +150,8 @@
 <td>
 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![GCE](https://img.shields.io/badge/GCP%20Compute%20Engine-4285F4?style=flat-square)
+![GCS](https://img.shields.io/badge/GCP%20Cloud%20Storage-4285F4?style=flat-square)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
@@ -132,6 +159,8 @@
 ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square)
 ![Let's Encrypt](https://img.shields.io/badge/Let's%20Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS-3776AB?style=flat-square)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
 </td>
 </tr>
@@ -144,7 +173,13 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Screen](https://img.shields.io/badge/GNU%20Screen-4B8BBE?style=flat-square)
 ![Systemd](https://img.shields.io/badge/Systemd-0d5c5c?style=flat-square)
+![PM2](https://img.shields.io/badge/PM2-2B037A?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![SSH](https://img.shields.io/badge/SSH-4B8BBE?style=flat-square)
+![rsync](https://img.shields.io/badge/rsync-3776AB?style=flat-square)
+![UFW](https://img.shields.io/badge/UFW%20Firewall-3776AB?style=flat-square)
+![fail2ban](https://img.shields.io/badge/fail2ban-3776AB?style=flat-square)
+![logrotate](https://img.shields.io/badge/logrotate-3776AB?style=flat-square)
 
 </td>
 </tr>
@@ -157,6 +192,10 @@
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=flat-square)
 ![browser-use](https://img.shields.io/badge/browser--use-0066CC?style=flat-square)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-8A2BE2?style=flat-square)
+![Function%20Calling](https://img.shields.io/badge/Function%20Calling-412991?style=flat-square)
 ![Prompt%20Engineering](https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=flat-square)
 
 </td>
@@ -167,10 +206,16 @@
 
 ![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=flat-square)
 ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Telegram%20Bot%20API](https://img.shields.io/badge/Telegram%20Bot%20API-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 ![Google%20Drive%20API](https://img.shields.io/badge/Google%20Drive%20API-34A853?style=flat-square)
+![Google%20Maps%20API](https://img.shields.io/badge/Google%20Maps%20API-4285F4?style=flat-square)
 ![cPanel%20API](https://img.shields.io/badge/cPanel%20API-FF6C2C?style=flat-square)
 ![SMTP](https://img.shields.io/badge/SMTP-2C3E50?style=flat-square)
+![OAuth2](https://img.shields.io/badge/OAuth2-4A90D9?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square)
+![Webhooks](https://img.shields.io/badge/Webhooks-2C3E50?style=flat-square)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 
 </td>
 </tr>
@@ -183,6 +228,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=flat-square)
 ![Chrome%20Extension](https://img.shields.io/badge/Chrome%20Extension-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![AJAX](https://img.shields.io/badge/AJAX-1B9A9A?style=flat-square)
 
 </td>
 </tr>
@@ -191,10 +239,15 @@
 <td>
 
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![unittest](https://img.shields.io/badge/unittest-3776AB?style=flat-square)
+![coverage](https://img.shields.io/badge/coverage.py-3776AB?style=flat-square)
+![mock](https://img.shields.io/badge/mock-3776AB?style=flat-square)
 ![PIL%2FPillow](https://img.shields.io/badge/PIL%2FPillow-9C27B0?style=flat-square)
 ![Selenium%20Testing](https://img.shields.io/badge/Selenium%20Testing-43B02A?style=flat-square)
 ![Logging](https://img.shields.io/badge/Logging-2C3E50?style=flat-square)
 ![Error%20Tracking](https://img.shields.io/badge/Error%20Tracking-E74C3C?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![curl](https://img.shields.io/badge/curl-073551?style=flat-square)
 
 </td>
 </tr>
@@ -210,6 +263,43 @@
 ![Microservices](https://img.shields.io/badge/Microservices-6DB33F?style=flat-square)
 ![Event--Driven](https://img.shields.io/badge/Event--Driven-FF9900?style=flat-square)
 ![Proxy%20Rotation](https://img.shields.io/badge/Proxy%20Rotation-8B4513?style=flat-square)
+![Retry%20with%20Backoff](https://img.shields.io/badge/Retry%20with%20Backoff-3776AB?style=flat-square)
+![Connection%20Pooling](https://img.shields.io/badge/Connection%20Pooling-3776AB?style=flat-square)
+![Middleware](https://img.shields.io/badge/Middleware-3776AB?style=flat-square)
+![Repository%20Pattern](https://img.shields.io/badge/Repository%20Pattern-3776AB?style=flat-square)
+![Dependency%20Injection](https://img.shields.io/badge/Dependency%20Injection-3776AB?style=flat-square)
+![Pub%2FSub](https://img.shields.io/badge/Pub%2FSub-FF9900?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td align="left"><b>Security</b></td>
+<td>
+
+![HTTPS%2FTLS](https://img.shields.io/badge/HTTPS%2FTLS-003A70?style=flat-square&logo=letsencrypt&logoColor=white)
+![SSL%20Certificates](https://img.shields.io/badge/SSL%20Certificates-003A70?style=flat-square)
+![Credential%20Management](https://img.shields.io/badge/Credential%20Management-red?style=flat-square)
+![.env%20Management](https://img.shields.io/badge/.env%20Management-3776AB?style=flat-square)
+![Secret%20Rotation](https://img.shields.io/badge/Secret%20Rotation-E74C3C?style=flat-square)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square)
+![Firewall](https://img.shields.io/badge/Firewall-3776AB?style=flat-square)
+![IP%20Blocking](https://img.shields.io/badge/IP%20Blocking-3776AB?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td align="left"><b>CLI & Tools</b></td>
+<td>
+
+![curl](https://img.shields.io/badge/curl-073551?style=flat-square)
+![wget](https://img.shields.io/badge/wget-073551?style=flat-square)
+![jq](https://img.shields.io/badge/jq-3776AB?style=flat-square)
+![vim](https://img.shields.io/badge/vim-019733?style=flat-square&logo=vim&logoColor=white)
+![htop](https://img.shields.io/badge/htop-3776AB?style=flat-square)
+![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat-square)
+![lftp](https://img.shields.io/badge/lftp-3776AB?style=flat-square)
+![Click](https://img.shields.io/badge/Click-3776AB?style=flat-square)
+![argparse](https://img.shields.io/badge/argparse-3776AB?style=flat-square)
 
 </td>
 </tr>
